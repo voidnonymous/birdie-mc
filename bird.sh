@@ -52,5 +52,8 @@ bash <(curl -sS https://raw.githubusercontent.com/aBoredDev/playit-setup-script/
 sudo systemctl stop playit
 echo "Please follow the following instructions."
 playit
+echo "Setting Up Birdie EXEC..."
+wget https://raw.githubusercontent.com/voidnonymous/birdie-mc/refs/heads/main/birdexec.sh -O birdexec.sh
 bash birdexec.sh
+exit
 
