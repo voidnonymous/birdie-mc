@@ -10,3 +10,5 @@ Also, This runs a Fabric Server.
 ## If you get a EULA Error:
 Go into bird-files
 Edit eula.txt to say EULA=True
+## If you find another problem:
+Make an issue report!
